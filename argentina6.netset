@@ -3,8 +3,8 @@
 # Version         : 1
 # Confidence      : 8
 # ipv6 netset
-# Date : Tue Oct 20 00:40:00
 #
+
 ::FFFF:1.178.48.0/116
 ::FFFF:2.17.202.0/119
 ::FFFF:2.18.36.0/118
