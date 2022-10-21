@@ -1,11 +1,11 @@
 #
-# Category        : shodan
+# Category        : 4
 # Version         : 1
 # Confidence      : 8
 # Maintainer      : tk_Computer_Service
 # ipv4 ipset 4
-# This File Date  : Tue Oct 21 00:12:00 EST 2020
 #
+
 218.202.78.141
 218.203.175.70
 218.206.168.34
