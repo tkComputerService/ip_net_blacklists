@@ -3,8 +3,8 @@
 # Version         : 1
 # Confidence      : 8
 # ipv4 netset
-# This File Date  : Tue Jan 13 06:25:00 UTC 2020
 #
+
 2.21.128.0/22
 23.50.192.0/20
 31.6.10.0/24
