@@ -3,8 +3,8 @@
 # Version         : 1
 # Confidence      : 8
 # ipv6 netset
-# This File Date  : Tue Jan 13 06:25:00 UTC 2020
 #
+
 ::FFFF:2.21.128.0/118
 ::FFFF:23.50.192.0/116
 ::FFFF:31.6.10.0/120
