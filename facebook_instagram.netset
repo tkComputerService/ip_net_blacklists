@@ -1,10 +1,9 @@
-#
-# Category        : facebook_instagram
-# Version         : 1
-# Confidence      : 8
-# Maintainer      : tk_Computer_Service
+# Category : facebook_instagram
+# Version : 1
+# Confidence : 8
+# Maintainer : tk_Computer_Service
 # ipv4 netset
-# This File Date  : Tue Oct 20 00:12:00 EST 2020
+# This File Date : Tue Oct 20 00:12:00 EST 2020
 #
 31.13.24.0/21
 31.13.64.0/18
@@ -32,9 +31,7 @@
 31.13.85.0/24
 66.220.144.0/20
 66.220.144.0/21
-66.220.149.11/16
 66.220.152.0/21
-66.220.158.11/16
 66.220.159.0/24
 69.63.176.0/20
 69.63.176.0/21
@@ -46,7 +43,6 @@
 69.171.229.11/16
 69.171.239.0/24
 69.171.240.0/20
-69.171.242.11/16
 69.171.250.0/24
 69.171.255.0/24
 74.119.76.0/22
